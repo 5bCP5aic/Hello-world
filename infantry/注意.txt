@@ -1,0 +1,2 @@
+1  jlink与其他master板线序相反
+2  can1与can2相反那个房间dgjdfgj
